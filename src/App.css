@@ -1,0 +1,76 @@
+header{
+    text-align: center;
+}
+.p1{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.m2{
+    margin-left: 300px;
+    margin-top: 10px;
+}
+.imgH{
+    width: 400px;
+    height: 300px;
+}
+
+.margin{
+    
+  }
+  .margin2{
+    margin-top: 40px;
+    margin-left: 200px;
+    margin-right: 50px;
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 40px;
+    
+  }
+  .h1{
+    height: 655px;
+  }
+  form {
+    color: #555;
+    display: flex;
+    padding: 2px;
+    border: 1px solid currentColor;
+    border-radius: 20px;
+  }
+  input[type="search"] {
+    border: none;
+    background: transparent;
+    margin: 0;
+    padding: 10px 12px;
+    font-size: 14px;
+    color: inherit;
+    border: 1px solid transparent;
+    border-radius: inherit;
+  }
+  
+  input[type="search"]::placeholder {
+    color: #bbb;
+  }
+  button[type="submit"] {
+    text-indent: -999px;
+    overflow: hidden;
+    width: 40px;
+    
+    padding: 0;
+    margin: 0;
+    border: 1px solid transparent;
+    border-radius: inherit;
+    background:  url("") no-repeat center;
+    cursor: pointer;
+    opacity: 0.7;
+  }
+  button[type="submit"]:hover {
+    opacity: 1;
+  }
+  button[type="submit"]:focus,
+  input[type="search"]:focus {
+    box-shadow: 0 0 3px 0 #1183d6;
+    border-color: #1183d6;
+    outline: none;
+  }
+  .A1{
+    margin-left: 500px;
+  }

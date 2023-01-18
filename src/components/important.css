@@ -1,0 +1,23 @@
+.main{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.sub_main{
+    font-size: 22px;
+}
+
+.img_info{
+    margin-top: 100px;
+    margin-left: 200px;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+
+.head{
+    text-align: center;
+}
+.img_subinfo{
+    text-align: center;
+}

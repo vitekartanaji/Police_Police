@@ -1,0 +1,19 @@
+#header{
+   text-align: center;
+   color: #0e2043;
+   margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    font-size: 2rem;
+}
+
+#sub_header{
+    text-align: center;
+    letter-spacing: 0px;
+    color: rgb(149, 149, 149);
+    opacity: 1;
+    max-width: 45vw;
+    margin: 1rem auto;
+    font-size: 1.25rem;
+}
+
